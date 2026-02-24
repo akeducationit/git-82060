@@ -100,7 +100,7 @@ git status # Forma larga con info.
 * staged (verde) -> estado del archivo cuando esta en el staging area, listo para hacer una instanea (commit)
 
 * modified (rojo) -> compara la versión del archivo que tengo en el LR contra la versión del archivo que tengo en Staging y el Working
-
+ 
 ## Marcar archivos (marcarlos en el staging area) para que se guarden en el próximo commit
 
 ```sh
