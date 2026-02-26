@@ -103,3 +103,6 @@ git push -u origin main # -u <--- es decir a git que trabaje en forma sincorniza
 git push
 ```
 
+```sh
+Tst 1ra sincro remoto
+```
