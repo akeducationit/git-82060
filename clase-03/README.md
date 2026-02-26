@@ -141,7 +141,8 @@ veo tema ParteA
 ```sh
 veo tema ParteB
 ```
-## Tag2
+
+## Tool ui
 ```sh
-veo tematag
+new tools
 ```
