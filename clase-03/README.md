@@ -132,4 +132,12 @@ git config --local
 * Compartir versiones con otros
 
 
++## ParteA
++```sh
++veo tema ParteA
++```
 
+## ParteB
+```sh
+veo tema ParteB
+```
